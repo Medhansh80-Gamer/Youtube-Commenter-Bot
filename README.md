@@ -1,2 +1,2 @@
-# youtube_commenter_bot
-A youtube commenter bot
+# Youtube Commenter Bot
+A Youtube Commenter Bot made by Medhansh80
