@@ -8,3 +8,4 @@ We just access your name, email and we comment through your google account.
 We DO NOT ALLOW COPYING even though it is not a copyright
 
 You will be able to link your account [here](http://google.com)
+
