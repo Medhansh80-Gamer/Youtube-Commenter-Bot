@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+A new youtube commenter bot made by Medhansh80 Gamer
+I know my name is a gamer but yea I like to have fun too lol
 
-You can use the [editor on GitHub](https://github.com/Medhansh80-Gamer/youtube_commenter_bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Privacy Policy
+We just access your name, email and we comment through your google account.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Terms of service
+We DO NOT ALLOW COPYING even though it is not a copyright
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Medhansh80-Gamer/youtube_commenter_bot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You will be able to link your account [here](http://google.com)
